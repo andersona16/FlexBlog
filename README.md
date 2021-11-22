@@ -2,7 +2,7 @@
 
 
 
-> Esse é um projeto foi do curso de FlexBox da Origamid   
+> Esse é um projeto foi do curso de FlexBox da [Origamid](https://www.origamid.com/cursos/)    
 
 
 
