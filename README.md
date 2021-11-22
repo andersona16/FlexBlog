@@ -16,4 +16,4 @@
 
 
 ### Créditos
-Créditos a [Origamid](https://www.origamid.com/cursos/) que traz execelentes cursos sobre front-end.
+Créditos a [Origamid](https://www.origamid.com/cursos/) que traz excelentes cursos sobre front-end.
